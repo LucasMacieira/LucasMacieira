@@ -15,8 +15,8 @@
 <br>
 
 <div align="center">
-  <img  height=170 align="center" src="https://github-readme-stats.vercel.app/api?username=LucasMacieira21&show_icons=true&theme=codeSTACKr">
-  <img  height=170 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasMacieira21&show_icons=true&theme=codeSTACKr&layout=compact">
+  <img  height=170 align="center" src="https://github-readme-stats.vercel.app/api?username=LucasMacieira&show_icons=true&theme=codeSTACKr">
+  <img  height=170 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasMacieira&show_icons=true&theme=codeSTACKr&layout=compact">
 </div>
 
 <br>
