@@ -15,8 +15,8 @@
 <br>
 
 <div align="center">
-  <img  height=170 align="center" src="https://github-readme-stats.vercel.app/api?username=LucasPerrone21&show_icons=true&theme=codeSTACKr">
-  <img  height=170 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasPerrone21&show_icons=true&theme=codeSTACKr&layout=compact">
+  <img  height=170 align="center" src="https://github-readme-stats.vercel.app/api?username=LucasMacieira21&show_icons=true&theme=codeSTACKr">
+  <img  height=170 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasMacieira21&show_icons=true&theme=codeSTACKr&layout=compact">
 </div>
 
 <br>
@@ -28,6 +28,6 @@
 <br>
 
 <div align="center">
-   <a href = "mailto:lucaspramos21@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/lucasperrone21/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+   <a href = "mailto:lucasmacieira12@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/lucas-menezes-315855169/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
