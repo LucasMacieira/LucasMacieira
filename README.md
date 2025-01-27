@@ -1,54 +1,33 @@
-# 👨‍💻 Lucas Macieira
+# E aí, de boas? Me chamo Lucas Perrone
+<br>
 
-## 🚀 Sobre mim
+<div style="display: inline_block" align="center">
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
+<img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge">
+<img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white">
+<img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white">
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+<img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white">
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+</div>
 
-Olá mundo! , sou Lucas Macieira, um desenvolvedor apaixonado por tecnologia e inovação. Estou me especializando em Analise e Desenvolvimento de Sistemas através do projeto "Desenvolve" em parceria com a UFMG.
+<br>
 
-Atualmente, estou realizando projetos de **desenvolvimento web** e **Aplicativos** para empresas privadas da cidade de Itabira MG, mas tenho interesse em crescer meus conhecimetnos atavés de novos desafios. Vamos construir algo incrível juntos?
+<div align="center">
+  <img  height=170 align="center" src="https://github-readme-stats.vercel.app/api?username=LucasPerrone21&show_icons=true&theme=codeSTACKr">
+  <img  height=170 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasPerrone21&show_icons=true&theme=codeSTACKr&layout=compact">
+</div>
 
-## 🌱 Tecnologias e Ferramentas
+<br>
+<div align="center">
+  <img  height=350  src="./f1Ferrari.gif">
+</div>
+<br>
+<hr>
+<br>
 
-- **Linguagens de Programação:**  
-  - Python, JavaScript, TypeScript, Java, C#
-  
-- **Frameworks e Bibliotecas:**  
-  - React, Node.js, Express, Django, Flask
-  
-- **Banco de Dados:**  
-  - MySQL, PostgreSQL, MongoDB, Firebase
-  
-- **Ferramentas de DevOps:**  
-  - Docker, Kubernetes, Jenkins, GitHub Actions
-  
-- **Outras Habilidades:**  
-  - Git, GitHub, Agile/Scrum, Testes automatizados
-
-## 🔥 Competências
-
-- **Desenvolvimento Web Full-Stack:** Construção de sites e aplicações escaláveis e otimizadas.
-- **Automação e Scripts:** Criação de scripts em Python e JavaScript para automação de tarefas repetitivas.
-- **Desenvolvimento de APIs:** Expertise em criar APIs RESTful com Node.js, Express e Django.
-- **Banco de Dados Relacional e Não Relacional:** Modelagem, otimização e implementação de soluções de banco de dados.
-- **Machine Learning:** Experiência em integrar modelos de aprendizado de máquina a sistemas reais.
-- **Trabalho em Equipe:** Colaboração em times ágeis e uso de ferramentas como Jira, Trello e Slack.
-
-## 📈 Estatísticas do GitHub
-
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=LucasMacieira&show_icons=true&count_private=true&hide_title=true&hide=prs&theme=radical)
-
-## 🛠 Projetos em Destaque
-
-### 💻 [Projeto 1](https://github.com/LucasMacieira/projeto-1)
-Criação de um site para empresa do setor privado em aluguel de maquinas de mineração 
-
-
-## 📫 Como Entrar em Contato
-
-- Email: lucasmacieira12@gmail.com
-- LinkedIn: [Lucas Macieira](https://www.linkedin.com/in/lucas-menezes-315855169/)
-- WPP: [31 99836-1214](+5531998361214)
-
----
-
-⚡️ **"A inovação começa com a curiosidade. Vamos explorar juntos!"**
-
+<div align="center">
+   <a href = "mailto:lucaspramos21@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/lucasperrone21/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+</div>
